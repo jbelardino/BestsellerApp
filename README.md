@@ -1,4 +1,4 @@
-# Android Lab Unit 3 - *BestsellApp*
+# Android Lab Unit 3 - *BestsellerApp*
 
 Submitted by: **Jerry Belardino**
 
