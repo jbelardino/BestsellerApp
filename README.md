@@ -12,6 +12,10 @@ The following **required** functionality is completed:
 
 * [x] Displays the top selling books from the NYTimes api\
 
+The following **optional** features are implemented:
+
+* [x] Get amazon button to work
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
